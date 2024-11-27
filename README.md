@@ -2,7 +2,7 @@
 
 A Doc Template created by VuePress 1.x.
 
-<img src="./qr.png" width="200">
+<img src="https://jasonbai008.github.io/doc/qr.png" width="200">
 
 ## How to USE
 
