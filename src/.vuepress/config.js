@@ -1,6 +1,6 @@
 module.exports = {
-    title: '小白的博客',
-    description: '小白的个人博客',
+    title: '点滴文档',
+    description: '你的全能文档',
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }]  // favicon
     ],
@@ -42,9 +42,9 @@ module.exports = {
             {
                 text: '实用网址',
                 items: [
-                    { text: '影视资源', link: 'https://www.nunuyy10.top' },
-                    { text: '科学上网', link: 'https://github.com/freefq/free' },
-                    { text: '博客主题', link: 'https://vuepress.vuejs.org/zh/theme/default-theme-config.html' },
+                    { text: '影视资源', link: 'https://www.libvio.cc/' },
+                    { text: '科学上网', link: 'https://jasonbai008.github.io/tech/surf.html' },
+                    { text: '博客主题', link: 'https://v1.vuepress.vuejs.org/zh/theme/default-theme-config.html' },
                     { text: '编辑工具', link: 'https://pandao.github.io/editor.md' },
                 ]
             },

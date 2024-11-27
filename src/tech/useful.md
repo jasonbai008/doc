@@ -28,7 +28,7 @@ ssh root@xxx.xxx.xx.xxx
 1. 打开 [gitee.com](https://gitee.com) 并注册一个账号，登录绑定自己的邮箱和手机号
 2. 在 gitee 上**新建一个代码仓库**，仓库名称根据个人喜好来定，比如 myRepo
 3. 复制代码仓库地址
-   ![图片](/tech/t1.png)
+   ![图片](/doc/tech/t1.png)
 
 4. 下载并安装代码版本管理工具 [git](https://git-scm.com/downloads)
 5. 在本地打开一个文件夹，要在这个文件夹下面放置刚才新建的代码仓库
@@ -60,10 +60,10 @@ git push
 ```
 
 12. 返回 gitee 上的代码仓库页面，选择 **服务 > Pages**
-    ![图片](/tech/t2.png)
+    ![图片](/doc/tech/t2.png)
 13. 开启 Pages 服务前，需要先实名认证
 14. 认证通过后，就可以开启服务了，开启后会自动生成**网站地址**
-    ![图片](/tech/t3.png)
+    ![图片](/doc/tech/t3.png)
 15. 以后改完代码后，执行步骤 11 和步骤 14 即可
 
 ## 在 GitHub 上部署自己的网站
@@ -102,5 +102,5 @@ git push
 ```
 
 12. 返回代码仓库页面，选择 **Settings > Pages > 选择 Docs > Save**，即可开启 Pages 服务
-    ![图片](/tech/t4.png)
+    ![图片](/doc/tech/t4.png)
 13. 后续每次提交更新文件，页面会自动加载最新版
