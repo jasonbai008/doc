@@ -1,5 +1,5 @@
 <template>
-  <div class="wrap">
+  <div class="wrap contact">
     <!-- 微信 -->
     <div class="item">
       <div class="left">
@@ -30,7 +30,9 @@
       <div class="right">
         <h2>Address</h2>
         <p>
-          <a href="https://j.map.baidu.com/a1/ptGJ" target="_blank">Chaoyang District, Beijing</a>
+          <a href="https://j.map.baidu.com/a1/ptGJ" target="_blank"
+            >Chaoyang District, Beijing</a
+          >
         </p>
       </div>
     </div>
@@ -46,7 +48,7 @@ export default {
   margin: 50px 0;
 }
 
-.item {
+.contact .item {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -76,7 +78,7 @@ export default {
   }
 }
 
-.left {
+.contact .left {
   flex-shrink: 0;
   width: 80px;
   height: 80px;
@@ -94,30 +96,30 @@ export default {
   background: #fedfd7;
 }
 
-.left img {
+.contact .left img {
   width: 30px;
   height: 30px;
   display: block;
   margin: auto;
 }
 
-.right {
+.contact .right {
   flex-grow: 1;
 }
 
-h2 {
+.contact h2 {
   margin-top: 15px;
   margin-bottom: 0;
   border: none;
 }
 
-p {
+.contact p {
   margin-top: 5px;
 }
-p a:hover {
+.contact p a:hover {
   cursor: pointer;
 }
-p::selection {
+.contact p::selection {
   color: #fff;
   background: #46bd87;
 }
