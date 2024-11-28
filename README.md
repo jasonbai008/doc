@@ -1,6 +1,6 @@
-# Blog
+# Drip Document 点滴文档
 
-A Doc Template created by VuePress 1.x.
+A Document Template powered by VuePress 1.x.
 
 <img src="https://jasonbai008.github.io/doc/qr.png" width="200">
 

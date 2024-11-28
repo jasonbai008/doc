@@ -30,6 +30,7 @@ module.exports = {
                     { text: '金融理财', link: '/life/financing' },                   
                 ]
             },            
+            { text: '设计', link: '/design/' },
             { text: '摄影', link: '/album/' },
             {
                 text: '实用网址',
