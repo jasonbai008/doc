@@ -26,18 +26,10 @@ module.exports = {
             {
                 text: '生活',
                 items: [
-                    { text: '日常记录', link: '/life/daily' },
-                    { text: '金融理财', link: '/life/financing' },
-                    { text: '职场法律', link: '/life/law' },
-                    { text: '医学健康', link: '/life/health' },
-                    { text: '诗词收藏', link: '/life/poems' },
+                    { text: '使用指南', link: '/life/daily' },
+                    { text: '金融理财', link: '/life/financing' },                   
                 ]
-            },
-            {
-                text: '技术', items: [
-                    { text: '实用技术', link: '/tech/useful' },
-                ]
-            },
+            },            
             { text: '摄影', link: '/album/' },
             {
                 text: '实用网址',
@@ -45,11 +37,10 @@ module.exports = {
                     { text: '影视资源', link: 'https://www.libvio.cc/' },
                     { text: '科学上网', link: 'https://jasonbai008.github.io/tech/surf.html' },
                     { text: '博客主题', link: 'https://v1.vuepress.vuejs.org/zh/theme/default-theme-config.html' },
-                    { text: '编辑工具', link: 'https://pandao.github.io/editor.md' },
                 ]
             },
             { text: '联系我', link: '/contact/' },
-            { text: 'GitHub', link: 'https://github.com/JasonBai007' },
+            { text: 'GitHub', link: 'https://github.com/jasonbai008/doc' },
         ],
         sidebar: 'auto',  // 侧栏根据页面标题自动生成导航
         lastUpdated: 'Last Updated', // string | boolean

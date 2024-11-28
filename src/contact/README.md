@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # 联系我
 
 <contact-me/>

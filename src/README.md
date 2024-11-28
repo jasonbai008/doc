@@ -3,8 +3,8 @@ home: true
 heroImage: /me.gif
 heroText: null
 tagline: 行到水穷处，坐看云起时
-actionText: 欢迎光临 →
-actionLink: /life/financing.html
+actionText: 快速上手
+actionLink: /life/daily.html
 features:
 - title: 沟通
   details: 沟通创造价值，传递价值。
@@ -16,5 +16,5 @@ features:
 ---
 
 ::: slot footer
-Copyright © 2022-present [Jason Bai](https://lubanseven.gitee.io)
+Copyright © 2022-present [Jason Bai](https://jasonbai008.github.io/lubanseven/)
 :::
