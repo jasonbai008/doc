@@ -24,7 +24,7 @@ module.exports = {
         nav: [
             { text: '首页', link: '/' },
             {
-                text: '生活',
+                text: '指南',
                 items: [
                     { text: '使用指南', link: '/life/daily' },
                     { text: '金融理财', link: '/life/financing' },                   
@@ -33,7 +33,7 @@ module.exports = {
             { text: '设计', link: '/design/' },
             { text: '摄影', link: '/album/' },
             {
-                text: '实用网址',
+                text: '网址',
                 items: [
                     { text: '影视资源', link: 'https://www.libvio.cc/' },
                     { text: '科学上网', link: 'https://jasonbai008.github.io/tech/surf.html' },
