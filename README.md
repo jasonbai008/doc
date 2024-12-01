@@ -71,3 +71,4 @@ npm run deploy
 9. 可以使用草料二维码生成自己的博客地址二维码
 10. 借助 [Valine](https://valine.js.org/) 和 [LeanCloud](https://www.leancloud.cn/) 实现了留言板功能
 11. 你需要在 LeanCloud 中注册登录，新建一个应用，从应用设置界面拿到 appKey 和 appId
+12. [搭建 VuePress 站点必做的 10 个优化](https://github.com/mqyqingfeng/Blog/issues/278)
