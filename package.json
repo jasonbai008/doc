@@ -16,8 +16,7 @@
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "@vuepress/plugin-back-to-top": "^1.9.7",
     "@vuepress/plugin-medium-zoom": "^1.9.7",
-    "vuepress": "^1.9.7",
-    "vuepress-plugin-nuggets-style-copy": "^1.0.3"
+    "vuepress": "^1.9.7"
   },
   "dependencies": {
     "valine": "^1.4.18"

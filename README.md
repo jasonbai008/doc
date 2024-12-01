@@ -8,17 +8,17 @@ A Document Template powered by VuePress 1.x.
 
 ```sh
 # 启动开发环境
-yarn dev
+npm run dev
 # 如果上面的命令报错
-yarn dev2
+npm run dev2
 
 # 打包
-yarn build
+npm run build
 # 如果上面的命令报错
-yarn build2
+npm run build2
 
 # 提交到远程代码仓库，自动部署
-yarn deploy
+npm run deploy
 ```
 
 ## Features
@@ -32,7 +32,7 @@ yarn deploy
 - 支持自定义样式
 - 支持自定义主题色
 - 支持自定义组件
-- 支持代码一键复制
+- 暂时去掉了代码一键复制【vuepress-plugin-nuggets-style-copy】
 - 支持留言板和阅读量统计
 - 支持[看板娘](https://vuepress-theme-reco.recoluan.com/views/plugins/kanbanniang.html)
 
