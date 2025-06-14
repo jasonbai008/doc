@@ -1,6 +1,6 @@
 # 使用指南
 
-![Hello](/doc/guide.webp)
+![Hello](/guide.webp)
 
 ## Markdown 基础语法
 
