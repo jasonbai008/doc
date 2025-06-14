@@ -1,9 +1,9 @@
 {
   "name": "blog",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "main": "index.js",
-  "repository": "https://gitee.com/lubanseven/blog.git",
-  "author": "JasonBai007 <byygkcg@163.com>",
+  "repository": "https://github.com/jasonbai008/doc.git",
+  "author": "JasonBai008 <byygkcg@163.com>",
   "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress dev src --temp .temp --open",
