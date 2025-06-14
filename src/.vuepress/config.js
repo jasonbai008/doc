@@ -5,7 +5,7 @@ module.exports = {
     ["link", { rel: "icon", href: "/logo.png" }], // favicon
   ],
   host: "localhost",
-  base: ".", // 同代码仓库名称
+  base: "/doc/", // 同代码仓库名称
   dest: "docs", // 因为GitHub的Pages服务仅支持docs目录
   plugins: [
     "@vuepress/back-to-top",
