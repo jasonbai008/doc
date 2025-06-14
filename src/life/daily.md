@@ -1,6 +1,6 @@
 # 使用指南
 
-<img src="$withBase('/guide.webp')" alt="Hello">
+<img :src="$withBase('/guide.webp')" alt="Hello">
 
 ## Markdown 基础语法
 
