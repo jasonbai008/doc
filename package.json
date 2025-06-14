@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress dev src --temp .temp --open",
     "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress build src",
-    "build:netlify": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress build src --base /",
+    "build:netlify": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress build src",
     "deploy": "sh deploy.sh"
   },
   "devDependencies": {
